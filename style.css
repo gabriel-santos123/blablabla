@@ -1,0 +1,13 @@
+body{
+    line-height: 1.5;
+    text-align: center;
+    font-size: 18px;
+    font-family: Helvetica;
+}
+input{
+    display: block;
+    margin: auto;
+    font-style: italic;
+    font-size: 17px;
+    font-family: helvetica;
+}
